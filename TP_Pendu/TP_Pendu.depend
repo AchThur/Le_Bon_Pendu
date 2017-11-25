@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1511630620 source:c:\users\arthu\desktop\tp c\tp c premier trimestre\tp_pendu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
